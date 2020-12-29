@@ -12,7 +12,7 @@ void setup()
 
   digitalWrite(DIODA_CZERWONA, LOW);
   digitalWrite(DIODA_ZIELONA, LOW);
-}
+}//działa 
 
 void loop() 
 {
